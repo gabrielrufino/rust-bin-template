@@ -1,2 +1,3 @@
-# rust-bin-template
+# Rust bin template
+
 Template for rust projects
